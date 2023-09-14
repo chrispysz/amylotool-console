@@ -1,4 +1,4 @@
-# AmyloTool: Console Application
+# AmyloTool: Console Application For Detection Of Amyloid Signalling Motifs
 
 This tool is intended for binary classification of potentionally amyloidogenic protein sequences from `FASTA` files. 
 
